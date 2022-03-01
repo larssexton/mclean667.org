@@ -4,131 +4,43 @@ title: Troop 667
 description: BSA Troop in Mclean VA
 ---
 
-# Where we meet
+# Meeting Place and Times
 
-# How to join
+Troop 667 meets in the education building at Chesterbrook United Methodist Church, 1711 Kirby Road,
+McLean, every Tuesday from 7:30-8:30 p.m.
 
-# About Us
+# Sponsorship, Brief History, and Activities
 
-# Contacts 
+Troop 667 is sponsored by the Chesterbrook United Methodist Church located at 1711 Kirby Rd., McLean. The
+troop was first chartered in September, 1954. Since 2001, 19 members of Troop 667 have advanced to the rank
+of Eagle Scout. The troop’s activities include rank advancement work at meetings and on camping trips; a mix of
+backpacking and drive-in camping trips, and community service projects.
 
+# Fees
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Troop 667 charges an annual registration-dues fee of $96.00. This covers the National Boy Scout Council
+registration fee of $36.00, Boy’s Life subscription fee of $12.00, and troop dues of $48.00. The troop collects the
+registration-dues fees from current members during October or a prorated amount from new members based on
+the month they join the troop.
 
-[Link to another page](./another-page.html).
+# Uniform
 
-There should be whitespace between paragraphs.
+Troop 667 members wear the khaki uniform shirt and pants at regular troop meetings and the troop t-shirt and
+jeans on camping trips. The Scout uniform shorts and a Scouting T-shirt can be worn to meetings and camp
+during the summer.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Advancement Program
 
-# Header 1
+Troop 667 has an active advancement program covering the full range of ranks from Scout to Eagle. The troop
+conducts three courts of honor during the year to recognize those members who have advanced in rank,
+completed merit badges, or earned special awards.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Patrol Method
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Troop 667 follows the patrol method at troop meetings and on camping trips. For this reason activities during
+troop meetings and while on camping trips will center around the patrols with the members of each patrol
+expected to follow the directions of their patrol leader. For camping trips, Troop 667 Scouts will determine tent
+assignments, develop menus, and generate duty rosters using the members in their patrol. Generally a new Scout
+is assigned to a patrol that has some of his friends from school. If several Webelos Scouts from the same pack
+and den join Troop 667, a new patrol is formed for these Scouts and one of the Troop’s older, more experienced
+Scouts serves as their patrol leader for the first year.
