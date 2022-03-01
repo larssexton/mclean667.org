@@ -1,7 +1,17 @@
 ---
 layout: default
 title: Troop 667
+description: BSA Troop in Mclean VA
 ---
+
+# Where we meet
+
+# How to join
+
+# About Us
+
+# Contacts 
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
