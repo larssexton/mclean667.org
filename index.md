@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Troop 667
+
+This is a test! Yay!
+
+-----
 
 You can use the [editor on GitHub](https://github.com/larssexton/Troop667/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
