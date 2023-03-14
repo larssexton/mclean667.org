@@ -29,7 +29,6 @@ Troop 667 members wear the khaki uniform shirt and pants at regular troop meetin
 jeans on camping trips. The Scout uniform shorts and a Scouting T-shirt can be worn to meetings and camp
 during the summer.
 
-Due to Covid-19 wearing a mask inside is required 
 
 # Advancement Program
 
